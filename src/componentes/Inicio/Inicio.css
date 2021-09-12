@@ -1,0 +1,11 @@
+.inicio{
+    background-color: rgb(199, 197, 197);
+    height: 100vh;
+}
+
+#logo{
+    padding-top: 50px;
+    width: 640px;
+    height: 320px;
+    align-items: center;
+}

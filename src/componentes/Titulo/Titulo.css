@@ -1,0 +1,9 @@
+.titulo{
+    height: 4vh;
+    background-color: blue;
+    border: 1px solid black;
+    position: relative;
+    top: 5vh;
+    padding-bottom: 25px;
+    color: white;
+}
